@@ -75,4 +75,5 @@ pipeline {
           message: "Deploy into Production #${env.BUILD_NUMBER} finished - (<${env.BUILD_URL}|Open>)",
           rawMessage: true
         }
+  }
 }
