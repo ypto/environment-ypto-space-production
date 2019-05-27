@@ -16,6 +16,9 @@ dependencies:
 - name: space-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.42
+- name: trade-admin
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.22
 - name: ws
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.38
