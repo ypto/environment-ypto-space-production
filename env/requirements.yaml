@@ -15,4 +15,4 @@ dependencies:
   version: 0.0.40
 - name: ws
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.21
+  version: 0.0.38
