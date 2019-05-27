@@ -10,6 +10,9 @@ dependencies:
 - name: ico
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.155
+- name: pay-admin
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.15
 - name: space-admin
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.40
