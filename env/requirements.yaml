@@ -22,6 +22,9 @@ dependencies:
 - name: pay-api
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.20
+- name: pay-web
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.14
 - name: space-admin
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.40
